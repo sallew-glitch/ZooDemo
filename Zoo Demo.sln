@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyperfect.Common", "Polyperfect.Common.csproj", "{99131827-7D5E-F4DB-7AF4-FA7438FA4D2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyperfect.Animals", "Polyperfect.Animals.csproj", "{FFB9A222-EB3B-A53C-2F80-1F007D3638E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{958F39FA-03E8-7C55-48B2-3749A10C1051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99131827-7D5E-F4DB-7AF4-FA7438FA4D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99131827-7D5E-F4DB-7AF4-FA7438FA4D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99131827-7D5E-F4DB-7AF4-FA7438FA4D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99131827-7D5E-F4DB-7AF4-FA7438FA4D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFB9A222-EB3B-A53C-2F80-1F007D3638E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB9A222-EB3B-A53C-2F80-1F007D3638E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB9A222-EB3B-A53C-2F80-1F007D3638E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB9A222-EB3B-A53C-2F80-1F007D3638E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958F39FA-03E8-7C55-48B2-3749A10C1051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958F39FA-03E8-7C55-48B2-3749A10C1051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958F39FA-03E8-7C55-48B2-3749A10C1051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958F39FA-03E8-7C55-48B2-3749A10C1051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
